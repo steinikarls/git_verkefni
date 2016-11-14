@@ -115,3 +115,5 @@ The purpose of Git is to manage a project, or a set of files, as they change ove
 það er líka sniðugt fyrir aðra sem vilja vinna að verkefninu líka 
 
 alltaf þegar það á að byrja á einhverju nýju í verkefnið
+
+Þorsteinn Ingi Karlsson
