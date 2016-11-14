@@ -55,6 +55,24 @@
 	
 	fyrir hvert sem þú breytir eða gerir í verkefninu myndi maður gera commit ef það virkar og engar villumeldingar og allir sáttir
 
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+Working directory
+
+Working directory is the directory with your source files under git control (in the root of all dirs under control .git file is present)
+----------------------------------------------
+
+Staging area
+
+The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area.
+----------------------------------------------
+
+Repository
+
+The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. A git repository contains, among other things, the following: A set of commit objects. A set of references to commit objects, called heads.
+---------------------------------------------
+
 	git status
 
 	he git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git. 
