@@ -41,6 +41,26 @@
 
 	-----------------------------------------
 
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+
+	a) git diff 
+
+	git-diff - Show changes between commits, commit and working tree, etc
+	-----------------------------------------
+
+	b) git diff --staged 
+
+	git-stage - Add file contents to the staging area
+
+	-----------------------------------------
+
+	c) git diff commit1 commit2
+
+	This is to view the changes between two arbitrary
+	-----------------------------------------
+
+
 4. 	Hvað er útgáfustýring (e.version control)? 
 
 	Git (/ɡɪt/) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
@@ -89,20 +109,9 @@ The purpose of Git is to manage a project, or a set of files, as they change ove
 	or particular files)
 	-----------------------------------------
 
-3. Hver er munurinn á eftirfarandi git skipunum:
+8.	Hvenær er sniðugt að nota greinar (branches)? 
 
-	a) git diff 
+þegar það er að fara að gera breytingu í verkefnin og vinna að nýju lausn/bæta við
+það er líka sniðugt fyrir aðra sem vilja vinna að verkefninu líka 
 
-	git-diff - Show changes between commits, commit and working tree, etc
-	-----------------------------------------
-
-	b) git diff --staged 
-
-	git-stage - Add file contents to the staging area
-
-	-----------------------------------------
-
-	c) git diff commit1 commit2
-
-	This is to view the changes between two arbitrary
-	-----------------------------------------
+alltaf þegar það á að byrja á einhverju nýju í verkefnið
