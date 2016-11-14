@@ -1,28 +1,28 @@
+﻿Git spurningar og svör
+
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
+
+	cd 
+
+	To change into the root directory, making it our working directory
+	------------------------------------------
+
 	cd ~
+
+	our home directory is the directory you're placed in, by default, when you open a new terminal session. It's the directory that holds all your settings, your mail, your default documents and downloads folder, and many other personal items.
+	-------------------------------------------
+
 	ls
+
+	Without options, ls displays files in a bare format. This bare format however makes it difficult to establish the type, permissions, and size of the files.
+	-------------------------------------------
+
 	pwd
+
+	the pwd command (print working directory) writes the full pathname of the current working directory to the standard output.
+	------------------------------------------
+
 	mkdir
 
-2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
-
-3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
-
-4. 	Hvað er útgáfustýring (e.version control)? 
-
-5.	Hverjir eru helstu kostir við að nota GIT?
-
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
-8.	Hvenær er sniðugt að nota greinar (branches)? 
+	mkdir is used to create directories on a file system
+	------------------------------------------
