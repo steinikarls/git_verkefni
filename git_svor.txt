@@ -56,3 +56,21 @@
 	git checkout is to checkout your desired status of your repository (like branches 
 	or particular files)
 	-----------------------------------------
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+
+	a) git diff 
+
+	git-diff - Show changes between commits, commit and working tree, etc
+	-----------------------------------------
+
+	b) git diff --staged 
+
+	git-stage - Add file contents to the staging area
+
+	-----------------------------------------
+
+	c) git diff commit1 commit2
+
+	This is to view the changes between two arbitrary
+	-----------------------------------------
